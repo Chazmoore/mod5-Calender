@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
 *As a useer, you will be able to save a schedule for each hour within a 9am-5pm work day.
 *When the use clicks on the hour they will be able to input info
 *when the click the save button they, the info will be saved
